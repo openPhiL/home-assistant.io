@@ -23,6 +23,9 @@ Integrates [Qingping](https://qingping.co/) devices into Home Assistant.
 
 The Qingping integration will automatically discover devices once the [Bluetooth](/integrations/bluetooth) integration is enabled and functional.
 
+## Installation via iOS app
+Download and start the Qingping app. Allow Bluetooth connections when asked. Press the + sign within the app and follow the instructions. If asked which protocoll to use (Apple home or Qingping protocol) choose the Qingping protocol. Continue following the instructionson the app until the device is set up. Now, the device can be found using this integration. 
+
 ## Supported devices
 
 - [Air Monitor Lite](https://www.qingping.co/air-monitor-lite/overview) (CGDN1)
